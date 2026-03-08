@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Outfit:wght@400;700;900&display=swap');
+
+@import "tailwindcss";
+
+@layer base {
+    body {
+        background-color: black;
+        color: white;
+        overflow-x: hidden;
+        font-family: 'Outfit', sans-serif;
+    }
+}

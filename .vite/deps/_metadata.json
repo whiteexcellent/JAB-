@@ -1,0 +1,79 @@
+{
+  "hash": "f75cee8e",
+  "configHash": "d5679594",
+  "lockfileHash": "a8918740",
+  "browserHash": "dfbc6323",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "cc571357",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "801e5fb4",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "f269b00c",
+      "needsInterop": false
+    },
+    "canvas-confetti": {
+      "src": "../../node_modules/canvas-confetti/dist/confetti.module.mjs",
+      "file": "canvas-confetti.js",
+      "fileHash": "af239dcd",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "6ecffe2d",
+      "needsInterop": false
+    },
+    "@splinetool/react-spline": {
+      "src": "../../node_modules/@splinetool/react-spline/dist/react-spline.js",
+      "file": "@splinetool_react-spline.js",
+      "fileHash": "c006bd1e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "process-EVOBQGWO": {
+      "file": "process-EVOBQGWO.js"
+    },
+    "boolean-CRIEMSF6": {
+      "file": "boolean-CRIEMSF6.js"
+    },
+    "howler-VGPDSPO6": {
+      "file": "howler-VGPDSPO6.js"
+    },
+    "opentype-2YECOTX5": {
+      "file": "opentype-2YECOTX5.js"
+    },
+    "ui-SWOGCOS7": {
+      "file": "ui-SWOGCOS7.js"
+    },
+    "gaussian-splat-compression-QFCUBMCE": {
+      "file": "gaussian-splat-compression-QFCUBMCE.js"
+    },
+    "chunk-52JCVHF2": {
+      "file": "chunk-52JCVHF2.js"
+    },
+    "chunk-GAFYC2ZW": {
+      "file": "chunk-GAFYC2ZW.js"
+    },
+    "navmesh-PLPHXRJM": {
+      "file": "navmesh-PLPHXRJM.js"
+    },
+    "physics-U7E4KWHA": {
+      "file": "physics-U7E4KWHA.js"
+    },
+    "chunk-PR4QN5HX": {
+      "file": "chunk-PR4QN5HX.js"
+    }
+  }
+}
